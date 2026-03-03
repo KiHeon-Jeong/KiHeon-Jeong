@@ -1,5 +1,5 @@
 <h1 align="center">KiHeon-Jeong 포트폴리오</h1>
-<p align="center">KiHeon-Jeong - <b>KiHeon-Jeong</b> Portfolio</p>
+<p align="center"><b>KiHeon-Jeong</b> Portfolio</p>
 
 ---
 
