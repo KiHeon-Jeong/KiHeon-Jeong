@@ -34,43 +34,49 @@
 ---
 
 <details>
-  <summary><strong>📌 프로젝트 상세 보기 (Tech Stack · 핵심 내용 · 기대 효과)</strong></summary>
+  <summary><strong>🔹 Tech Stack 보기</strong></summary>
 
   <br>
 
-  ## 🔹 Tech Stack
-
-  ### **Frontend**  
+  #### **Frontend**  
   React 18 · TypeScript · Vite 5 · Tailwind CSS · Radix UI  
 
-  ### **Backend (API / Serving)**  
+  #### **Backend (API / Serving)**  
   FastAPI · Pydantic · joblib  
   - 학습된 모델 로드 및 추론 API 제공  
 
-  ### **Modeling (ML)**  
+  #### **Modeling (ML)**  
   pandas · numpy · scikit-learn  
   XGBoost · LightGBM · CatBoost · Optuna  
   matplotlib · seaborn  
   - 데이터 전처리, 학습, 하이퍼파라미터 튜닝, 검증  
 
-  ---
+</details>
 
-  ## 🔗 Repositories
+---
 
-  <p>
-    <a href="https://github.com/KiHeon-Jeong/Immune_Project">
-      <img src="https://img.shields.io/badge/Immune_Model-181717?style=flat-square&logo=github&logoColor=white"/>
-    </a>
-    <a href="https://github.com/KiHeon-Jeong/Nutrition_project">
-      <img src="https://img.shields.io/badge/Nutrition_Model-181717?style=flat-square&logo=github&logoColor=white"/>
-    </a>
-    <a href="https://img.shields.io/badge/Web_Service-181717?style=flat-square&logo=github&logoColor=white"/>
-    </a>
-  </p>
+### 🔗 Repositories
 
-  ---
+<p>
+  <a href="https://github.com/KiHeon-Jeong/Immune_Project">
+    <img src="https://img.shields.io/badge/Immune_Model-181717?style=flat-square&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://github.com/KiHeon-Jeong/Nutrition_project">
+    <img src="https://img.shields.io/badge/Nutrition_Model-181717?style=flat-square&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://github.com/KiHeon-Jeong/Webservice_Project">
+    <img src="https://img.shields.io/badge/Web_Service-181717?style=flat-square&logo=github&logoColor=white"/>
+  </a>
+</p>
 
-  ## 📌 핵심 내용
+---
+
+<details>
+  <summary><strong>📌 핵심 내용 및 기대 효과 보기</strong></summary>
+
+  <br>
+
+  **핵심 내용**
 
   1. 면역 관리  
      - MIMIC-IV 임상 지표 기반 면역 취약성 예측  
@@ -87,9 +93,7 @@
      - 대시보드 기반 통합 관리 UI  
      - 관리자 전용 화면 및 상태 시각화 제공  
 
-  ---
-
-  ## 📈 기대 효과
+  **기대 효과**
 
   - 데이터 기반 의사결정 지원  
   - 고위험군 조기 관리로 감염 리스크 감소  
