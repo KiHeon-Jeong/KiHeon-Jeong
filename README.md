@@ -52,26 +52,6 @@
   - 데이터 전처리, 학습, 하이퍼파라미터 튜닝, 검증  
 
 </details>
-
----
-
-### 🔗 Repositories
-
-<p>
-  <a href="https://github.com/KiHeon-Jeong/Immune_Project">
-    <img src="https://img.shields.io/badge/Immune_Model-181717?style=flat-square&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://github.com/KiHeon-Jeong/Nutrition_project">
-    <img src="https://img.shields.io/badge/Nutrition_Model-181717?style=flat-square&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://github.com/KiHeon-Jeong/Webservice_Project">
-    <img src="https://img.shields.io/badge/Web_Service-181717?style=flat-square&logo=github&logoColor=white"/>
-  </a>
-</p>
-
----
-
-<details>
   <summary><strong>📌 핵심 내용 및 기대 효과 보기</strong></summary>
 
   <br>
@@ -100,4 +80,19 @@
   - 요양원 운영 효율성 향상  
 
 </details>
-  
+
+### 🔗 Repositories
+
+<p>
+  <a href="https://github.com/KiHeon-Jeong/Immune_Project">
+    <img src="https://img.shields.io/badge/Immune_Model-181717?style=flat-square&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://github.com/KiHeon-Jeong/Nutrition_project">
+    <img src="https://img.shields.io/badge/Nutrition_Model-181717?style=flat-square&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://github.com/KiHeon-Jeong/Webservice_Project">
+    <img src="https://img.shields.io/badge/Web_Service-181717?style=flat-square&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+</details>
