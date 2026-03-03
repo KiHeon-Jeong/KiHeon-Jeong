@@ -28,27 +28,41 @@
 ## 📝 Projects
 진행했던 프로젝트입니다.
 
-## 📝 Projects
-
-### 1. 요양원 거주 민감계층을 위한 AI 기반 통합 면역 점수 산출 및 영양 수치 확인을 통한 맞춤형 케어 가이드라인 수립 시스템
-
-**프로젝트 개요**  
-면역 취약 계층인 요양원 이용자를 대상으로 MIMIC-IV 데이터와 식품 영양 성분 표준 데이터를 활용해 면역 점수와 영양 상태를 분석하고, 맞춤형 개선 가이드 및 감염병 대응 지침을 제공하는 시스템입니다.
+### 🏥 AI 기반 통합 면역·영양 맞춤 케어 시스템  
+> 데이터 기반 면역 취약성 예측과 영양 분석을 통해 요양원 민감계층을 위한 맞춤형 케어 가이드를 제공하는 통합 관리 플랫폼
 
 ---
 
 ### 🔹 Tech Stack
 
 **Frontend**  
-React 18, TypeScript, Vite 5, Tailwind CSS, Radix UI  
+React 18 · TypeScript · Vite 5 · Tailwind CSS · Radix UI  
 
-**Backend (API/Serving)**  
-FastAPI, Pydantic, joblib  
-설명: 학습된 모델 로드 및 추론 API 제공  
+**Backend (API / Serving)**  
+FastAPI · Pydantic · joblib  
+- 학습된 모델 로드 및 추론 API 제공  
 
 **Modeling (ML)**  
-pandas, numpy, scikit-learn, XGBoost / LightGBM / CatBoost, Optuna, matplotlib / seaborn  
-설명: 데이터 전처리, 학습, 튜닝, 검증  
+pandas · numpy · scikit-learn  
+XGBoost · LightGBM · CatBoost · Optuna  
+matplotlib · seaborn  
+- 데이터 전처리, 학습, 하이퍼파라미터 튜닝, 검증  
+
+---
+
+### 🔗 Repositories
+
+<p>
+  <a href="https://github.com/KiHeon-Jeong/Immune_Project">
+    <img src="https://img.shields.io/badge/Immune_Model-181717?style=flat-square&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://github.com/KiHeon-Jeong/Nutrition_project">
+    <img src="https://img.shields.io/badge/Nutrition_Model-181717?style=flat-square&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://github.com/KiHeon-Jeong/Webservice_Project">
+    <img src="https://img.shields.io/badge/Web_Service-181717?style=flat-square&logo=github&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
@@ -58,14 +72,27 @@ pandas, numpy, scikit-learn, XGBoost / LightGBM / CatBoost, Optuna, matplotlib /
   <br>
 
   **핵심 내용**
-  1. 면역 관리: MIMIC-IV 임상 지표 기반 면역 취약성 예측 및 고위험군 조기 선별  
-  2. 영양 관리: 결핍 요소 분석 및 맞춤 영양·음식 추천  
-  3. 감염 대응: 유행성 질환 발생 시 공식 매뉴얼 기반 케어 가이드 제공  
-  4. Frontend: 대시보드 및 관리자 화면 구성  
 
-  **기대 효과**  
-  요양보호사 및 간호 인력이 데이터 기반으로 체계적인 이용자 관리를 수행하고, 요양원 운영 부담을 줄일 수 있도록 지원
+  1. 면역 관리  
+     - MIMIC-IV 임상 지표 기반 면역 취약성 예측  
+     - 고위험군 조기 선별 모델 구축  
+
+  2. 영양 관리  
+     - 외부 식품 영양 표준 데이터 연동  
+     - 결핍 요소 분석 및 맞춤 영양/식단 가이드 제공  
+
+  3. 감염 대응  
+     - 코로나19, 독감 등 유행성 질환 대응 매뉴얼 자동 가이드  
+
+  4. 서비스 구현  
+     - 대시보드 기반 통합 관리 UI  
+     - 관리자 전용 화면 및 상태 시각화 제공  
+
+  **기대 효과**
+
+  - 데이터 기반 의사결정 지원  
+  - 고위험군 조기 관리로 감염 리스크 감소  
+  - 요양원 운영 효율성 향상  
 
 </details>
-
   
