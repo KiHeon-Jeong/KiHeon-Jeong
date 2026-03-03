@@ -35,14 +35,14 @@
 
 ### 🔹 Tech Stack
 
-**Frontend**  
+#### **Frontend**  
 React 18 · TypeScript · Vite 5 · Tailwind CSS · Radix UI  
 
-**Backend (API / Serving)**  
+#### **Backend (API / Serving)**  
 FastAPI · Pydantic · joblib  
 - 학습된 모델 로드 및 추론 API 제공  
 
-**Modeling (ML)**  
+#### **Modeling (ML)**  
 pandas · numpy · scikit-learn  
 XGBoost · LightGBM · CatBoost · Optuna  
 matplotlib · seaborn  
