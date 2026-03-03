@@ -31,8 +31,6 @@
 ### 🏥 AI 기반 통합 면역·영양 맞춤 케어 시스템  
 > 데이터 기반 면역 취약성 예측과 영양 분석을 통해 요양원 민감계층을 위한 맞춤형 케어 가이드를 제공하는 통합 관리 플랫폼
 
----
-
 <details>
   <summary><strong>🔹 Tech Stack 보기</strong></summary>
 
@@ -52,8 +50,6 @@
   - 데이터 전처리, 학습, 하이퍼파라미터 튜닝, 검증  
 
 </details>
-
----
 
 <details>
   <summary><strong>📌 핵심 내용 및 기대 효과 보기</strong></summary>
@@ -84,8 +80,6 @@
   - 요양원 운영 효율성 향상  
 
 </details>
-
----
 
 ### 🔗 Repositories
 
