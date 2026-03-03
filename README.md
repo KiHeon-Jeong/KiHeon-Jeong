@@ -33,45 +33,44 @@
 
 ---
 
-### 🔹 Tech Stack
-
-#### **Frontend**  
-React 18 · TypeScript · Vite 5 · Tailwind CSS · Radix UI  
-
-#### **Backend (API / Serving)**  
-FastAPI · Pydantic · joblib  
-- 학습된 모델 로드 및 추론 API 제공  
-
-#### **Modeling (ML)**  
-pandas · numpy · scikit-learn  
-XGBoost · LightGBM · CatBoost · Optuna  
-matplotlib · seaborn  
-- 데이터 전처리, 학습, 하이퍼파라미터 튜닝, 검증  
-
----
-
-### 🔗 Repositories
-
-<p>
-  <a href="https://github.com/KiHeon-Jeong/Immune_Project">
-    <img src="https://img.shields.io/badge/Immune_Model-181717?style=flat-square&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://github.com/KiHeon-Jeong/Nutrition_project">
-    <img src="https://img.shields.io/badge/Nutrition_Model-181717?style=flat-square&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://github.com/KiHeon-Jeong/Webservice_Project">
-    <img src="https://img.shields.io/badge/Web_Service-181717?style=flat-square&logo=github&logoColor=white"/>
-  </a>
-</p>
-
----
-
 <details>
-  <summary><strong>📌 핵심 내용 및 기대 효과 보기</strong></summary>
+  <summary><strong>📌 프로젝트 상세 보기 (Tech Stack · 핵심 내용 · 기대 효과)</strong></summary>
 
   <br>
 
-  **핵심 내용**
+  ## 🔹 Tech Stack
+
+  ### **Frontend**  
+  React 18 · TypeScript · Vite 5 · Tailwind CSS · Radix UI  
+
+  ### **Backend (API / Serving)**  
+  FastAPI · Pydantic · joblib  
+  - 학습된 모델 로드 및 추론 API 제공  
+
+  ### **Modeling (ML)**  
+  pandas · numpy · scikit-learn  
+  XGBoost · LightGBM · CatBoost · Optuna  
+  matplotlib · seaborn  
+  - 데이터 전처리, 학습, 하이퍼파라미터 튜닝, 검증  
+
+  ---
+
+  ## 🔗 Repositories
+
+  <p>
+    <a href="https://github.com/KiHeon-Jeong/Immune_Project">
+      <img src="https://img.shields.io/badge/Immune_Model-181717?style=flat-square&logo=github&logoColor=white"/>
+    </a>
+    <a href="https://github.com/KiHeon-Jeong/Nutrition_project">
+      <img src="https://img.shields.io/badge/Nutrition_Model-181717?style=flat-square&logo=github&logoColor=white"/>
+    </a>
+    <a href="https://img.shields.io/badge/Web_Service-181717?style=flat-square&logo=github&logoColor=white"/>
+    </a>
+  </p>
+
+  ---
+
+  ## 📌 핵심 내용
 
   1. 면역 관리  
      - MIMIC-IV 임상 지표 기반 면역 취약성 예측  
@@ -82,13 +81,15 @@ matplotlib · seaborn
      - 결핍 요소 분석 및 맞춤 영양/식단 가이드 제공  
 
   3. 감염 대응  
-     - 코로나19, 독감 등 유행성 질환 대응 매뉴얼 가이드 제공  
+     - 유행성 질환 대응 매뉴얼 가이드 제공  
 
   4. 서비스 구현  
      - 대시보드 기반 통합 관리 UI  
      - 관리자 전용 화면 및 상태 시각화 제공  
 
-  **기대 효과**
+  ---
+
+  ## 📈 기대 효과
 
   - 데이터 기반 의사결정 지원  
   - 고위험군 조기 관리로 감염 리스크 감소  
