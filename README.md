@@ -52,6 +52,10 @@
   - 데이터 전처리, 학습, 하이퍼파라미터 튜닝, 검증  
 
 </details>
+
+---
+
+<details>
   <summary><strong>📌 핵심 내용 및 기대 효과 보기</strong></summary>
 
   <br>
@@ -81,6 +85,8 @@
 
 </details>
 
+---
+
 ### 🔗 Repositories
 
 <p>
@@ -94,5 +100,3 @@
     <img src="https://img.shields.io/badge/Web_Service-181717?style=flat-square&logo=github&logoColor=white"/>
   </a>
 </p>
-
-</details>
