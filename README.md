@@ -161,7 +161,7 @@
   <br>
 
   #### **Data / EDA**
-  Python · pandas · numpy · Jupyter
+  SQL (Oracle) · Python · pandas · numpy · Jupyter
 
   #### **Modeling (DL)**
   PyTorch · torchvision · ResNet50 · EfficientNet-B3
