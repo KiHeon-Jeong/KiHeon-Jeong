@@ -100,9 +100,9 @@
 ---
 
 ### 02. MIMIC 기반 Sepsis 예측 프로젝트
-> MIMIC-IV 코호트를 기반으로 패혈증/사망 위험을 예측하는 모델링 및 웹서비스 연동 프로젝트  
-> 수행 기간: 2026.01 ~ 2026.02  
-> 수행 역할: EDA, 모델링, API/Frontend 연동
+> MIMIC-IV Dataset에서 응급실 코호트를 기반으로 패혈증/사망 위험을 예측하는 모델링 및 웹서비스 연동 프로젝트  
+> 수행 기간: 2025.12.29 ~ 2026.01.19  
+> 수행 역할: 팀장(PM), 프로젝트 기획 및 분석 총괄, Frontend 구현, Backend 연동
 
 <details>
   <summary><strong>🛠 Tech Stack 보기</strong></summary>
@@ -113,7 +113,7 @@
   SQL (Oracle) · Python · pandas · numpy · Jupyter
 
   #### **Modeling (ML)**
-  scikit-learn · LightGBM · (실험 기반) XGBoost
+  scikit-learn · LightGBM · XGBoost
 
   #### **Web Integration**
   Flask · React · Vite
@@ -152,8 +152,8 @@
 
 ### 03. DR 기반 Diabetic Retinopathy 예측 프로젝트
 > 안저 이미지 기반 당뇨망막병증 분류 모델 개발 및 웹 추론 서비스 구축 프로젝트  
-> 수행 기간: 2026.01 ~ 2026.02  
-> 수행 역할: EDA, 모델링, Streamlit 서비스 구현
+> 수행 기간: 2025.12.29 ~ 2026.01.19  
+> 수행 역할: 팀장(PM), 프로젝트 기획 및 분석 총괄, Frontend 구현, Backend 연동
 
 <details>
   <summary><strong>🛠 Tech Stack 보기</strong></summary>
