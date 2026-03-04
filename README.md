@@ -97,3 +97,37 @@
     <img src="https://img.shields.io/badge/Web_Service-181717?style=flat-square&logo=github&logoColor=white"/>
   </a>
 </p>
+
+---
+
+### 02. MIMIC 기반 Sepsis 예측 프로젝트
+> MIMIC-IV 코호트를 기반으로 패혈증/사망 위험을 예측하는 모델링 및 웹서비스 연동 프로젝트  
+> 수행 기간: 2026.01 ~ 2026.02  
+> 수행 역할: EDA, 모델링, API/Frontend 연동
+
+### Repositories
+
+<p>
+  <a href="https://github.com/KiHeon-Jeong/Sepsis-detect-project">
+    <img src="https://img.shields.io/badge/MIMIC_EDA%26Modeling-181717?style=flat-square&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://github.com/KiHeon-Jeong/Sepsis-detect-project_Web-service">
+    <img src="https://img.shields.io/badge/MIMIC_Web_Service-181717?style=flat-square&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+### 03. DR 기반 Diabetic Retinopathy 예측 프로젝트
+> 안저 이미지 기반 당뇨망막병증 분류 모델 개발 및 웹 추론 서비스 구축 프로젝트  
+> 수행 기간: 2026.01 ~ 2026.02  
+> 수행 역할: EDA, 모델링, Streamlit 서비스 구현
+
+### Repositories
+
+<p>
+  <a href="https://github.com/KiHeon-Jeong/Diabetic-Retinopathy-detect-project">
+    <img src="https://img.shields.io/badge/DR_EDA%26Modeling-181717?style=flat-square&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://github.com/KiHeon-Jeong/Diabetic-Retinopathy-detect-project_Web-service">
+    <img src="https://img.shields.io/badge/DR_Web_Service-181717?style=flat-square&logo=github&logoColor=white"/>
+  </a>
+</p>
